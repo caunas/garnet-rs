@@ -1,0 +1,6 @@
+int::X = 2;
+int::y = 4;
+
+int::z = x + y;
+
+print(z);
